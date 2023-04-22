@@ -9,6 +9,7 @@ namespace DesignPatterns
         {
             Console.WriteLine("Hello World!");
             new ValidateSingleton().Validate();
+            new ValidateDecorator();
         }
         
 
